@@ -1,0 +1,15 @@
+.App{
+  text-align: center;
+}
+
+.canciones{
+ 
+  
+}
+.canciones:hover{
+  color: rgb(255, 115, 0);
+  background-color: rgb(221, 236, 13);
+}
+.fondo{
+  background-image: url('/src/fondo.png');
+}
